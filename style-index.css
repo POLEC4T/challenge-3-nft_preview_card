@@ -194,7 +194,8 @@ body p {
 .bottom p {
     color: var(--Soft-blue);
     font-size: 16px;
-    /* margin-top: 5px; */
+    font-weight: 300;
+    
 }
 
 .bottom p span {
@@ -208,3 +209,13 @@ body p {
 
 .attribution { font-size: 11px; text-align: center; color: white; }
 .attribution a { color: hsl(228, 45%, 44%); }
+
+@media screen and (max-width:375px) {
+    .page {
+        width: 330px;
+    }
+
+    .main > p {
+        font-size: 16px;
+    }
+}
