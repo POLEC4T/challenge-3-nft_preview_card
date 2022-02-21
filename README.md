@@ -65,5 +65,5 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@POLEC4T](https://www.frontendmentor.io/profile/POLEC4T)
-- Twitter - [@yourusername](https://www.twitter.com/Mr_Polecat38)
+- Twitter - [@Mr_Polecat38](https://www.twitter.com/Mr_Polecat38)
 
